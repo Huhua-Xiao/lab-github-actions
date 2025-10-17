@@ -61,4 +61,4 @@ jobs:
         uses: codecov/codecov-action@v5
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          slug: nyu-devops/lab-github-actions
+          slug: Huhua-Xiao/lab-github-actions
